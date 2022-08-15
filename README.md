@@ -1,3 +1,3 @@
-# Java
+# Java Learning
 
 ## Java program 
