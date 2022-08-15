@@ -45,3 +45,19 @@ public class datatype {
 
     }
 }
+
+/*
+Primitive data types
+byte data type : 117
+short data type : 23456
+int data type : 123456789
+long data type : 652890167346789017
+float data type : 456.1455
+double data type : 455676.1455123
+char data type : A
+boolean data type : true
+
+Non primitive data types
+string data type : Java Tutorial
+length of string : 13
+*/
